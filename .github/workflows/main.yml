@@ -27,7 +27,7 @@ jobs:
       - name: deploy
         uses:  swznd/sftp-deploy@master
         with:
-          host: panel.gunivers.net
+          host: ${{ secrets.CO2020_IP }}
           port: 22
           user: ${{ secrets.CO2020_USER }}
           password: ${{ secrets.CO2020_PASSWORD }}
