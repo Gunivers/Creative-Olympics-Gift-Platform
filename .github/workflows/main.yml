@@ -31,5 +31,5 @@ jobs:
           port: 22
           user: ${{ secrets.CO2020_USER }}
           password: ${{ secrets.CO2020_PASSWORD }}
-          remote_path: ~/gift/
+          remote_path: gift/
           ignore: .github/**,.gitignore,**/.gitignore,**/.git/**
