@@ -1,0 +1,32 @@
+{
+  "RahNeil_N3": {
+    "Irus": {
+      "Back": "Back",
+      "Cancel": "Cancel",
+      "Donations": {
+        "Donate_Now": {
+          "Description": "Donate to support the charity of your choice :D\nThe donation amount isn't restricted",
+          "Short": "Donate",
+          "Title": "Donate now"
+        },
+        "Title": "Donations"
+      },
+      "Error": {
+        "Language": "An error occured while loading"
+      },
+      "Home_Page": "Home page",
+      "Language": {
+        "Change": "Change language",
+        "Current": "English"
+      },
+      "More": "More",
+      "Next": "Next",
+      "Search": "Search",
+      "Theme": {
+        "Dark": "Switch to dark theme",
+        "Light": "Switch to light theme"
+      },
+      "Title": "Irus"
+    }
+  }
+}
